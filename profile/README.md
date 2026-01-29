@@ -1,4 +1,4 @@
 # grain
 grain.
 
-accurate & shrimple software
+accurate software
